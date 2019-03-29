@@ -1,0 +1,13 @@
+.DS_STORE
+VOCdevkit/*
+*.pkl
+*.jpg
+*.png
+*.pyc
+unneeded/*
+*.m
+data/*
+!data/.gitkeep
+result/*
+!result/.gitkeep
+preprocess.py
